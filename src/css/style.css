@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.loader {
+    display: block;
+    font-size: 70px;
+    margin-top: 20%;
+}
+
+.data {
+    display: none;
+    margin: 20px auto;
+    max-width: 80%;
+    text-align: left;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+.imgbox{
+    width: 24.6%;
+    display: inline-block;
+}
+.imgbox img{
+    width: 100%;
+    height: 176.22px
+}
